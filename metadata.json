@@ -1,0 +1,6 @@
+{
+  "name": "ArbiterPro - Chess Tournament Pairing & Arbiter System",
+  "description": "Professional FIDE-compliant chess tournament management system featuring Swiss-System, Round-Robin, and Knockout pairings, automated tie-break calculations, and arbiter administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
